@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Alex 👋👨‍💻
+I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
-<!--
-**AlexandruGG/AlexandruGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Daily Technologies
+- PHP 7.4 | 8 + Symfony
+- MySQL
+- Docker
+- AWS
+- React + TypeScript
 
-Here are some ideas to get you started:
+### What I Like
+🚀 clean, quality, tested code  
+🔧 using and contributing to developer tools which help us write better code  
+🦀 everything Rust  
+🤓 reviewing PRs  
+ λ  functional programming
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrugg&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
