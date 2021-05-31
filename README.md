@@ -13,8 +13,8 @@ I'm a self-taught developer who enjoys working on back-end APIs and libraries; s
 🔧 using and contributing to developer tools which help us write better code  
 🦀 everything Rust  
 🤓 reviewing PRs  
- λ  functional programming
+λλ functional programming
 <br />
 <br />
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrugg&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrugg&hide=stars&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
