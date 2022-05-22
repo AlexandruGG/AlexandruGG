@@ -1,12 +1,12 @@
 ## Hi, I'm Alex 👋👨‍💻
 I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
-### Daily Technologies
+### What I work with (2022)
 - PHP 7.4 | 8 + Symfony
-- MySQL
+- Java + Spring Boot
+- MySQL, BigQuery
+- Kafka, Redis
 - Docker
-- AWS
-- React + TypeScript
 
 ### What I Like
 🚀 clean, quality, tested code  
