@@ -2,7 +2,7 @@
 I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
 ### What I work with (2022)
-- PHP 7.4 | 8 + Symfony
+- PHP + Symfony
 - Java + Spring Boot
 - MySQL, BigQuery
 - Kafka, Redis
