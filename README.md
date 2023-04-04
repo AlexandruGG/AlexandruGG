@@ -1,12 +1,16 @@
 ## Hi, I'm Alex 👋👨‍💻
 I'm a self-taught developer who enjoys working on back-end APIs and libraries; sometimes will dabble in the front-end.
 
-### What I work with (2022)
+### What I currently work with the most
+- Kotlin, Java + Spring Boot
+- Kafka & Avro
+- PostgreSQL
+- Docker, Kubernetes
+
+### What I worked with in the past
 - PHP + Symfony
-- Java + Spring Boot
 - MySQL, BigQuery
-- Kafka, Redis
-- Docker
+- Redis
 
 ### What I Like
 🚀 clean, quality, tested code  
